@@ -1,1 +1,1 @@
-This is repository is not used for professional puposes, but only for me to use my knowledge in programming(in general) in a practiacal manner.
+This repository is not used for professional purposes, but only for me to use my knowledge in programming(in general) in a practical manner.
