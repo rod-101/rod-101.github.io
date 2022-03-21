@@ -1,1 +1,1 @@
-#this is a read me file, i created to illustrate adding a new file in the new branch called "first-branch".
+This is repository is not used for professional puposes, but only for me to use my knowledge in programming(in general) in a practiacal manner.
